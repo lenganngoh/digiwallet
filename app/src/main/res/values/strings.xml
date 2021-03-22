@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">digiwallet</string>
+    <string name="decimal_two">%,.2f</string>
+    <string name="history_string_format">You have %s %s</string>
+    <string name="str_wallets">Wallets</string>
+    <string name="str_wallet">Wallet</string>
+    <string name="str_history">History</string>
+    <string name="str_demo1">Demo 1: Working List</string>
+    <string name="str_demo2">Demo 2: Status 429</string>
+    <string name="str_demo3">Demo 3: Status 500</string>
+    <string name="str_go_back_menu">Go Back to Menu</string>
+    <string name="str_error_msg_format">Your %s might not be up-to-date. Tap to know more.</string>
+    <string name="str_error_fetching_data">Error fetching data</string>
+    <string name="str_refresh">Refresh</string>
+</resources>
