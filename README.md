@@ -8,9 +8,9 @@ Digiwallet is a small prototype application for digital wallet use
 ## Hilt
 Using hilt will simplify the implementation of the DI (https://dagger.dev/hilt)
 ## Retrofit2
-Used by the app for REST consumption. This is chosen because it is very compatible on MVVM architecture applications.
+Used by the app for REST consumption. This is chosen because it is very compatible with MVVM architecture applications.
 ## Room Database
-Used for persistence to be able to show the cached list for both wallets and history when server returns an error. Room Database was used also because of its compatibility to MVVM architecture.
+Used for persistence to be able to show the cached list for both wallets and history when server returns an error. Room Database was used also because of its compatibility with MVVM architecture.
 ## Coil
 Coil is used as opposed to Glide or Picasso because it works nicely with Hilt and loads on the UI thread.
 # Build Path
